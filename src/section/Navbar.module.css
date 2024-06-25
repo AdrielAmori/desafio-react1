@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end; /* Alinha a lista à direita */
+}
+
+.navbar ul {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-right: 10%;
+}
+
+.navbar li {
+  list-style: none;
+  margin-top: 30px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #000 !important;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}

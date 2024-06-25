@@ -1,0 +1,23 @@
+.presentation {
+  text-align: justify;
+  margin-top: 200px;
+  margin-left: 165px;
+}
+
+.presentation h1 {
+  color: var(--Dark-Color, #21243D);
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 60px;
+}
+
+.presentation p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: var(--Dark-Color, #21243D);
+  font-family: Heebo;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
